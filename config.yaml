@@ -2,7 +2,7 @@ baseurl: "/"
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Micah Bird's Site
 
 languages:
     en:
@@ -38,7 +38,8 @@ params:
 
     footer:
         since: 2023
-        customText:
+        copyrightText: "Micah Bird"
+        customText: '<a href="https://notbyai.fyi"><img src="https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg" loading="lazy" alt="Written by Human, Not by AI"></a>'
 
     dateFormat:
         published: Jan 02, 2006
@@ -46,11 +47,11 @@ params:
 
     sidebar:
         # emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: The home of an all around tech enthusiast.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
@@ -188,9 +189,14 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/MicahBird
           params:
               icon: brand-github
+        - identifier: mastodon
+          name: Mastodon
+          url: https://fosstodon.org/@boc64
+          params:
+              icon: brand-mastodon
 
         # - identifier: twitter
         #   name: Twitter
