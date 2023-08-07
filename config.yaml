@@ -73,8 +73,8 @@ params:
             adminLabel:
 
         utterances:
-            repo:
-            issueTerm: pathname
+            repo: MicahBird/micahbird.com
+            issueTerm: title
             label:
 
         remark42:
