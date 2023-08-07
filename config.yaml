@@ -192,11 +192,18 @@ menu:
           url: https://github.com/MicahBird
           params:
               icon: brand-github
+
         - identifier: mastodon
           name: Mastodon
           url: https://fosstodon.org/@boc64
           params:
               icon: brand-mastodon
+
+        - identifier: email
+          name: Email
+          url: mailto:inquiries@micahbird.com
+          params:
+              icon: email
 
         # - identifier: twitter
         #   name: Twitter
@@ -209,6 +216,12 @@ menu:
           url: /index.xml
           params:
               icon: rss
+
+        - identifier: resume
+          name: Resume
+          url: https://resume.micahbird.com
+          params:
+              icon: user
 
 related:
     includeNewer: true
