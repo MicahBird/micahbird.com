@@ -205,6 +205,12 @@ menu:
           params:
               icon: email
 
+        - identifier: linkedin
+          name: Linkedin
+          url: https://www.linkedin.com/in/micah-bird/
+          params:
+              icon: brand-linkedin
+
         # - identifier: twitter
         #   name: Twitter
         #   url: https://twitter.com
