@@ -37,7 +37,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2023
+        since: 2025
         copyrightText: "Micah Bird"
         customText: '<a href="https://notbyai.fyi"><img src="https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg" loading="lazy" alt="Written by Human, Not by AI"></a>'
 
