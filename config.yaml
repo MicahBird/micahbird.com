@@ -1,7 +1,6 @@
 baseurl: "https://micahbird.com"
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
 title: Micah Bird's Site
 
 languages:
@@ -37,7 +36,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2025
+        since: 2023
         copyrightText: "Micah Bird"
         customText: '<a href="https://notbyai.fyi"><img src="https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg" loading="lazy" alt="Written by Human, Not by AI"></a>'
 
@@ -223,11 +222,11 @@ menu:
           params:
               icon: rss
 
-        - identifier: resume
-          name: Resume
-          url: https://resume.micahbird.com
+        - identifier: pgp
+          name: PGP
+          url: /pgp.txt
           params:
-              icon: user
+              icon: key
 
 related:
     includeNewer: true
