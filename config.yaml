@@ -210,12 +210,6 @@ menu:
           params:
               icon: brand-linkedin
 
-        # - identifier: twitter
-        #   name: Twitter
-        #   url: https://twitter.com
-        #   params:
-        #       icon: brand-twitter
-                
         - identifier: rss
           name: RSS
           url: /index.xml
