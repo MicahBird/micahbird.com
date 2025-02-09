@@ -1,7 +1,7 @@
 +++
 title = "How to Setup ArgoCD (the Homelab Way)"
 author = "Micah Bird"
-date = ""
+date = "2025-02-09"
 categories = [
     "DevOps",
     "Kubernetes"
