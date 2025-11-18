@@ -40,13 +40,17 @@ params:
         copyrightText: "Micah Bird"
         customText: > 
           <a href="https://notbyai.fyi"><img src="https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg" loading="lazy" alt="Written by Human, Not by AI"></a>
-          <div style="display: flex; align-items: center; gap: 16px; padding: 8px; font-family: Arial, sans-serif;">
-              <a aria-label="previous" href="https://grantlemons.com/webring/prev" style="text-decoration: none; color: #0066cc; font-weight: bold;">Previous</a>
-              <p class="mx-std" style="margin: 0; display: flex; align-items: center; gap: 8px;">
-                  <img src="/dev-mail-icon.png" loading="lazy" alt="/dev/mail icon" style="height: 16px; width: 16px;">
+          <div style="display: flex; justify-content: space-between; align-items: center; gap: 24px; padding: 16px 24px; min-height: 56px; width: 100%; font-family: Arial, sans-serif;">
+              <a aria-label="previous" href="https://grantlemons.com/webring/prev" style="text-decoration: none; color: #3d9cfc; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+                  ← Previous
+              </a>
+              <p class="mx-std" style="margin: 0; display: flex; align-items: center; gap: 12px; font-weight: bold;">
+                  <img src="/dev-mail-icon.png" loading="lazy" alt="/dev/mail icon" style="height: 20px; width: 20px;">
                   /dev/mail Webring
               </p>
-              <a aria-label="next" href="https://grantlemons.com/webring/next" style="text-decoration: none; color: #0066cc; font-weight: bold;">Next</a>
+              <a aria-label="next" href="https://grantlemons.com/webring/next" style="text-decoration: none; color: #3d9cfc; font-weight: bold; display: flex; align-items: center; gap: 8px; justify-content: flex-end;">
+                  Next →
+              </a>
           </div>
 
     dateFormat:
