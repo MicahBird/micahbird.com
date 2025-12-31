@@ -12,6 +12,8 @@ comments: false
 
 The following are tech talks that I find comedic, learned lessons from, introduced me to new tech, and/or all of the above!
 
+*Last Upated: December 31, 2025*
+
 ## Zoz - Pwned By The Owner: What Happens When You Steal a Hackers Computer (DEFCON 18)
 
 This was the first DEFCON talk I watched and it's an entertaining hacker tale! Although the technology discussed is ancient by modern standards, the security principles still ring true. **Includes NFSW imagery, viewer discretion is advised.**
@@ -59,6 +61,13 @@ A phenomenal talk on failure from former Mythbuster Adam Savage.
 A confounding talk on the repercussions of what can happen when a game becomes too engaging, and how it takes a toll on players.
 
 {{< youtube t9WMNuyjm4w >}}
+
+
+## Cory Doctorow - A post-American, enshittification-resistant internet (39C3)
+
+This is Cory Doctorow at his peak, rather than verbally shrugging his sholders at the prospect of enshittification, he provides some ways we could fight back.
+
+{{< media-ccc 39c3-a-post-american-enshittification-resistant-internet >}}
 
 ---
 
