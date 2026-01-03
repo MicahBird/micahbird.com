@@ -51,6 +51,8 @@ After using Gadgetbridge for a while, it dawned on me I was missing a stopwatch 
 
 To install apps, you have to download them as `.pbw` files to then upload in Gadgetbridge app. To obtain said mystical files, you have to go to the [Rebble App Store with developer settings enabled](https://apps.rebble.io/en_US/watchapps?dev_settings=true) or simply append `?dev_settings=true` to the end of a URL to the app, for example, the stopwatch app would be [`https://apps.rebble.io/en_US/application/55b6c2c3e68f5acdfc00008d?dev_settings=true`](https://apps.rebble.io/en_US/application/55b6c2c3e68f5acdfc00008d?dev_settings=true)
 
+Alternatively, you can download the apps from the [Pebble App Store Archive from the Internet Archive](https://archive.org/details/pebble-appstore-archive). *Thanks [Lukas](https://lukaswerner.com/)!*
+
 Then at the bottom of the page of the app, tap the "Download PBW" link, save the file, and then in Gadgetbridge select the App Manager of your Pebble device, and upload the app using the button in the lower right:
 
 ![Gadgetbridge App Manager](app-manager.png)
