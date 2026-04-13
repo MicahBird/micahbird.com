@@ -14,7 +14,7 @@ Today out of the blue I was contacted by a business that I made a website for ag
 
 ![The Letter](scam-letter.jpg)
 
-It looks like some "professional" bill, but something is off. What the heck is the domain `marston-holdings.com` and why would they want $288 for it?! Well, when going to that site, it displays the homepage for the business who received this letter. Also, the letter is from "Domain Listings" how could it not be legit??
+Although it's a solicitation, what the heck is the domain `marston-holdings.com` and why would they want $288 for it?! Well, when going to that site, it displays the homepage for the business who received this letter. Also, the letter is from "Domain Listings" how could it not be legit??
 
 ![The Scam Site](urlbar.png)
 
@@ -24,7 +24,7 @@ From the outside, this is how I believe the scam works:
 
 1. Get a cheap domain.
 2. Host a mirror of a website through that domain.
-3. Send out scary letters that could be plausible that you need to pay for it.
+3. Send out scary solicitation letters that could be plausible that you need to pay for it.
 
 It is a clever scam I must admit, but incredibly poor execution. No doubt it would have tricked the employees in this business as admittedly they are the older, and in non-technical crowd. I am incredibly thankful that they reached out to me before doing anything about it. Now, it's my turn.
 
@@ -76,3 +76,5 @@ Huh, that's odd. The website was at least cloned starting in July 2025, and the 
 ## The End..?
 
 For now, I have contacted GoDaddy support to get the impostor site taken down, but I have yet to hear back. I will update this post with new developments as they happen.
+
+UPDATE: 04/12, still no response from GoDaddy, but I fundamentally misunderstood the letter, as it states: "THIS IS NOT A BILL. THIS IS A SOLICITATION. YOU ARE UNDER NO OBLIGATION TO PAY THE AMOUNT STATED ABOVE UNLESS YOU ACCEPT THIS OFFER." I was under the assumption that this was a misleading bill, but that is not the case. The text above text has been corrected to reflect that.
