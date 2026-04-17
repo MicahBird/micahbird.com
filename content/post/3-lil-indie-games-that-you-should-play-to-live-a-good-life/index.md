@@ -1,7 +1,7 @@
 +++
 title = "3 lil Indie Games That You Should Play to Live a Good Life"
 author = "Micah Bird"
-date = "2026-04-12"
+date = "2026-04-16"
 categories = [
     "Games"
 ]
