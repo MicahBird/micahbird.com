@@ -28,6 +28,10 @@ permalinks:
     post: /p/:slug/
     page: /:slug/
 
+  
+pagination:
+  pagerSize: 4
+
 params:
     mainSections:
         - post
